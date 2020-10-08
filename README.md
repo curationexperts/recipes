@@ -1,11 +1,10 @@
-# DCE Playbook for Design and Development
-[![Build Status](https://travis-ci.org/curationexperts/playbook.svg?branch=master)](https://travis-ci.org/curationexperts/playbook)
+# DCE Recipes for Development and Production
 
 This is a place for documenting the practices we follow at DCE.
 
 ## About this project
 
-This site is built with jekyll via github pages. You can see the output at http://curationexperts.github.io/playbook.
+This site is built with jekyll via github pages. You can see the output at https://curationexperts.github.io/recipes/.
 
 ## How to contribute
 

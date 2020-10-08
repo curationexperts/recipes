@@ -1,11 +1,10 @@
-# Dealing with intermittent failures on Travis CI
+# Dealing with intermittent failures on CI
 
-DCE uses Travis CI to run specs when pushing to GitHub. Travis
-is a unique environment that is slightly different than our 
+DCE uses a Continous Integration (CI) service to run specs when pushing to GitHub. CI 
+is a unique environment that may have slight differences from
 production environments or development machines. You may encounter
-intermittent failures when specs run on Travis that you don't run into on your 
-local machine. This problem is pronounced when running feature tests that 
-rely on JavaScript. 
+intermittent failures when specs run under CI that you don't run into on your 
+local machine. 
 
 If you have a spec that is passing locally, but sometimes failing on Travis you can use a strategy that Chris Colvard came up with on the Avalon project. The original Avalon commit for this functionality is [here](https://github.com/avalonmediasystem/avalon/commit/2a5b21dcb7d40c47a77acf6fb24de089944588b5).
 
