@@ -2,6 +2,8 @@
 
 This is a place for documenting the practices we follow at DCE.
 
+For more general practices, please see our [Playbook](https://curationexperts.github.io/playbook/)
+
 ## About this project
 
 This site is built with jekyll via github pages. You can see the output at https://curationexperts.github.io/recipes/.

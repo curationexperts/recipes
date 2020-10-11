@@ -44,3 +44,6 @@ Care and feeding of the systems we run
 ## Authentication
 - [Shibbboleth](authentication/shibboleth.md)
 - [LDAP](authentication/ldap.md)
+
+## Team Practices
+For more human-focused practices we use on the team please see our [Playbook](/playbook)
