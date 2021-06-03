@@ -7,7 +7,7 @@ These are common implementation patterns we frequently use
 - [Continuous Integration](patterns/ci.md)
 - [CSS & JavaScript Guidelines](patterns/css_and_js_guidelines.md)
 - [Docker](patterns/docker_containers.md)
-- [Google Analytics](patterns/google_analytics/google_analytics.md)
+- [Google Analytics](patterns/google_analytics.md)
 - [Handling Intermittent CI Failures](patterns/intermittent_ci_failures.md)
 - [UV in Blacklight](patterns/uv_in_blacklight.md)
 
